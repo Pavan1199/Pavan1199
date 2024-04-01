@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pavan Vadde</h1>
 <h3 align="center">A creative and passionate Software Engineer.</h3>
-<img align="center" alt="Coding" width="400" style="display: block; margin-left: auto; margin-right: auto;" src="![image](https://github.com/Pavan1199/Pavan1199/assets/49121428/58d669e6-016e-4457-8a85-b84fdd1210ae)
-">
+<img align="center" alt="Coding" width="400" style="display: block; margin-left: auto; margin-right: auto;" src="https://potomac.edu/wp-content/uploads/2020/12/benefits-of-coding-e1606911064541.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavan1199&label=Profile%20views&color=0e75b6&style=flat" alt="pavan1199" /> </p>
 
