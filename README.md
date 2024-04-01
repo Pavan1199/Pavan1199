@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pavan Vadde</h1>
 <h3 align="center">A creative and passionate Software Engineer.</h3>
-<img alt="Coding" width="400" style="margin: 0 auto; display: block;" src="https://img.freepik.com/premium-photo/two-men-are-seated-front-three-computer-monitors-working-concentrating-their-tasks-software-developer-man-computer-coding-script-ai-generated_538213-17323.jpg">
+<div style="text-align: center;">
+    <img alt="Coding" width="400" src="https://img.freepik.com/premium-photo/two-men-are-seated-front-three-computer-monitors-working-concentrating-their-tasks-software-developer-man-computer-coding-script-ai-generated_538213-17323.jpg">
+</div>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavan1199&label=Profile%20views&color=0e75b6&style=flat" alt="pavan1199" /> </p>
